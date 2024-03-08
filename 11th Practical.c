@@ -30,7 +30,6 @@ struct Record {
         struct Teacher teacher;
     } account;
 };
-
 struct Record records[100];
 int recordCount = 0;
 
