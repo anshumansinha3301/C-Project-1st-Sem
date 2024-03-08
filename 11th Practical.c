@@ -124,7 +124,6 @@ void searchRecord() {
         printf("Record not found for Roll No/Employee ID: %d\n", id);
     }
 }
-
 // Function to modify a record by roll number or employee ID
 void modifyRecord() {
     int id;
