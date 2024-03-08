@@ -6,7 +6,6 @@ struct Date {
     int month;
     int year;
 };
-
 struct Student {
     char name[50];
     char className[20];
