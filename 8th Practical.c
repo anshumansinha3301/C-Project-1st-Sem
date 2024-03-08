@@ -10,7 +10,6 @@ void viewRecords();
 void searchRecord();
 void modifyRecord();
 void deleteRecord();
-
 int main() {
     int choice;
 
