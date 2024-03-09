@@ -4,7 +4,6 @@ struct Customer {
 char name[50];
 long long int phoneNumber;
 float amountPaid;};
-
 void addRecord();
 void viewRecords();
 void searchRecord();
