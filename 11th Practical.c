@@ -68,7 +68,7 @@ void addRecord() {
     recordCount++;
     printf("Record added successfully!\n");
 }
-
+ 
 // Function to display all records
 void displayRecords() {
     printf("Date\t\tAccount Type\tName\t\tRoll No/Employee ID\tAmount\n");
