@@ -15,7 +15,7 @@ struct Student {
     float total;
     float advance;
 };
-
+ 
 struct Teacher {
     char name[50];
     int employeeID;
