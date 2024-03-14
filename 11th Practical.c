@@ -21,7 +21,7 @@ struct Teacher {
     int employeeID;
     float salary;
 };
-
+ 
 struct Record {
     struct Date date;
     char accountType;  // 'S' for student, 'T' for teacher
